@@ -1,0 +1,11 @@
+# Writing real engineering data to a file
+file = open("viscosity_data.txt","w")
+file.write("Viscosity Data\n")
+file.write("shear rate,viscosity\n")
+file.write("10,0.85\n")
+file.write("20,0.72\n")
+file.write("50,0.61\n")
+file.write("100,0.54\n")
+file.write("200,0.48\n")
+file.close()
+print("Viscosity data saved")

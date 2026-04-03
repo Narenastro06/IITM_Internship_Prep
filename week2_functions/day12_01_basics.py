@@ -1,0 +1,6 @@
+file = open("stress_result.txt","w")
+file.write("Stress Result\n")
+file.write("Steel: 400 MPa\n")
+file.write("Aluminium: 138 MPa\n")
+file.close()
+print("File written successfully")

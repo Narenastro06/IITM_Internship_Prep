@@ -1,0 +1,7 @@
+Viscosity Data
+shear_rate,viscosity
+10,0.85
+20,0.72
+50,0.61
+100,0.54
+200,0.48

@@ -1,0 +1,11 @@
+Rheology Lab Data - Carboxymethyl Cellulose Solution
+shear_rate,viscosity
+0.1,12.5
+0.5,8.3
+1.0,6.1
+5.0,3.2
+10.0,2.1
+50.0,0.98
+100.0,0.72
+500.0,0.41
+1000.0,0.31

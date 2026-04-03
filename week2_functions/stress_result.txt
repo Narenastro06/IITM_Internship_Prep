@@ -1,0 +1,3 @@
+Stress Result
+Steel: 400 MPa
+Aluminium: 138 MPa
