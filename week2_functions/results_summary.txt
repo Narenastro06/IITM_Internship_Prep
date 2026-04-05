@@ -1,0 +1,1 @@
+Highest shear stress: 310.0 at shear rate: 1000.0
